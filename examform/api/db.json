@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "name": "madhavi",
+      "RollNumber": "5436",
+      "English": 44,
+      "Telugu": 55,
+      "Hindi": 78,
+      "Science": 67,
+      "SocialStudies": 23,
+      "extraactivities": 34,
+      "totalMarks": "54",
+      "id": 0.009934025404168212
+    },
+    {
+      "extraactivities": 20,
+      "SocialStudies": 32,
+      "Science": 44,
+      "Hindi": 33,
+      "English": 11,
+      "Telugu": 22,
+      "name": "balufd",
+      "RollNumber": "66",
+      "totalMarks": 162,
+      "id": 0.9616379289145929
+    },
+    {
+      "totalmarks": 262,
+      "extraactivities": 50,
+      "SocialStudies": 10,
+      "Science": 54,
+      "Hindi": 34,
+      "English": 44,
+      "Telugu": 67,
+      "name": "hgggjggj",
+      "RollNumber": "4454",
+      "totalMarks": 259,
+      "id": 0.8889095468591424
+    },
+    {
+      "extraactivities": 54,
+      "SocialStudies": 26,
+      "Science": 44,
+      "Hindi": 43,
+      "English": 76,
+      "Telugu": 34,
+      "name": "hhhhd",
+      "RollNumber": "45346",
+      "id": 0.1009103958571167,
+      "totalMarks": 277
+    },
+    {
+      "name": "chitti",
+      "RollNumber": "3434",
+      "English": 76,
+      "Telugu": 67,
+      "Hindi": 65,
+      "Science": 54,
+      "SocialStudies": 22,
+      "extraactivities": 54,
+      "id": 0.9722555551197882,
+      "totalMarks": 338
+    },
+    {
+      "extraactivities": 34,
+      "SocialStudies": 23,
+      "Science": 54,
+      "Hindi": 43,
+      "English": 76,
+      "Telugu": 34,
+      "name": "madhavi",
+      "RollNumber": "577",
+      "id": 0.40586790095766,
+      "totalMarks": 264
+    },
+    {
+      "extraactivities": 50,
+      "SocialStudies": 32,
+      "Science": 54,
+      "Hindi": 43,
+      "English": 76,
+      "Telugu": 67,
+      "name": "shyamala",
+      "RollNumber": "1234",
+      "id": 0.29507962326725035,
+      "totalMarks": 322
+    }
+  ]
+}

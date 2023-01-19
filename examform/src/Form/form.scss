@@ -1,0 +1,98 @@
+.form
+{
+   
+    margin-top: 30px;
+   margin-left: 350px;
+   margin-right:400px;
+     width: 700px;
+     height: 400px;
+     /* UI Properties */
+     background: #FFFFFF 0% 0% no-repeat padding-box;
+     box-shadow: 0px 3px 6px #00000029;
+     border-radius: 16px;
+     opacity: 1;
+    
+    &_header {
+      
+       margin-left:50 px;
+       border-bottom: 1px solid rgb(225, 223, 223);
+        /* UI Properties */
+        text-align: left;
+        font: normal normal normal 10px/32px Microsoft Sans Serif;
+        letter-spacing: 0px;
+        opacity: 1;
+       h1 {
+            margin-top: 60px;
+           margin-left: 50px;
+            width: 171px;
+            height: 32px;
+        }
+       
+    }
+    
+    &_container { 
+       margin-top:10px;
+        gap: 1rem;  
+        display: flex;
+        flex-direction: column;
+         margin-left:50px;
+       
+
+        .rowone{
+            flex-flow:wrap;
+            display: grid;
+            gap: 1rem;
+            
+            grid-template-columns: repeat(auto-fill, minmax(20%, 1fr));
+            
+      
+    
+        }
+       
+        
+    }
+   
+    &_footer {
+        padding-top: 1rem;
+        margin-left:50px;
+        margin-top: 20px;
+        border-top: 1px solid rgb(227, 226, 226);
+      
+    }
+}
+
+
+
+// custom styles for inputs
+label{
+    text-transform: capitalize;
+}
+
+.view_companyheader{
+    border:1px solid;
+   &_logo{
+    margin-top:0px;
+    top: 0px;
+left: 0px;
+width: 1920px;
+height: 70px;
+/* UI Properties */
+background: #396CC5 0% 0% no-repeat padding-box;
+opacity: 1;
+    
+    list-style-type: none;
+   }
+   &_navigation{
+    
+   }
+   &_navigation_add{
+    margin-left: 80%;
+   
+   }
+   
+
+     }
+.btn{
+    padding: 10px;
+    text-decoration: none;
+}
